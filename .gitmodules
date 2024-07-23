@@ -1,0 +1,6 @@
+[submodule "recipe-back-end"]
+	path = recipe-back-end
+	url = https://github.com/Ali-Hadi-Saker/recipe-Backend.git
+[submodule "recipe-front-end"]
+	path = recipe-front-end
+	url = https://github.com/Ali-Hadi-Saker/recipe-Frontend.git
